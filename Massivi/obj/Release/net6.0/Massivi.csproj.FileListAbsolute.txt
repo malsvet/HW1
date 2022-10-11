@@ -1,0 +1,15 @@
+N:\ШАГ РПО\C#\Massivi\bin\Release\net6.0\Massivi.exe
+N:\ШАГ РПО\C#\Massivi\bin\Release\net6.0\Massivi.deps.json
+N:\ШАГ РПО\C#\Massivi\bin\Release\net6.0\Massivi.runtimeconfig.json
+N:\ШАГ РПО\C#\Massivi\bin\Release\net6.0\Massivi.dll
+N:\ШАГ РПО\C#\Massivi\bin\Release\net6.0\Massivi.pdb
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.AssemblyInfo.cs
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.dll
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\refint\Massivi.dll
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.pdb
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\Massivi.genruntimeconfig.cache
+N:\ШАГ РПО\C#\Massivi\obj\Release\net6.0\ref\Massivi.dll
